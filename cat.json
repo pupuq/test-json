@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1"
+    "image": "https://img.openshop.com.hk/upload/202103/604c8a3a889d4.jpg",
+    "title": "MSI VIGOR GK30 COMBO 中文黑色版 電競鍵盤滑鼠組合 (GK30+GM11)",
+    "price": "339.00",
+    "originalprice": "430.00",
+    "discount": "21% OFF"
+  },
+  {
+    "id": "2"
+    "image": "https://img.openshop.com.hk/s2/202306/6481b25323b37.jpg",
+    "title": "AOC GK200+GM200 週年紀念鍵鼠套裝",
+    "price": "499.00",
+    "originalprice": "499.00",
+    "discount": "0% OFF"
+  },
+  {
+    "id": "3"
+    "image": "https://img.openshop.com.hk/s2/202303/6413018cf0043.jpg",
+    "title": "Corsair 四合一電競套裝(K55 RGB PRO+HARPOON RGB PRO+HS55+MM100)",
+    "price": "790.00",
+    "originalprice": "988.00",
+    "discount": "20% OFF"
+  },
+  {
+    "id": "4"
+    "image": "https://img.openshop.com.hk/s2/202208/630debc2b1194.jpg",
+    "title": "Logitech G304+G435 Wireless gaming Combo 組合套裝",
+    "price": "899.00",
+    "originalprice": "999.00",
+    "discount": "10% OFF"
+  }
+]
